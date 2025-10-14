@@ -36,3 +36,5 @@ The signing scripts will only execute if the following conditions are met, ensur
 - **Environment Settings**: `./build/mac/env.sh`
 - **App Signing Script**: `./build/mac/sign_app.sh`
 - **DMG Signing Script**: `./build/mac/sign_dmg.sh`
+
+<!-- Auto-update: 2025-10-14T11:25:34.990210 -->
