@@ -5,3 +5,5 @@ PyInstaller; sys_platform == 'darwin'
 
 setuptools
 requests
+
+# Update: 2025-10-15
