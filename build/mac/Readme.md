@@ -38,3 +38,5 @@ The signing scripts will only execute if the following conditions are met, ensur
 - **DMG Signing Script**: `./build/mac/sign_dmg.sh`
 
 <!-- Auto-update: 2025-10-14T11:25:34.990210 -->
+
+<!-- Auto-update: 2025-10-17T09:14:26.538281 -->
